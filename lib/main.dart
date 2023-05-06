@@ -90,7 +90,7 @@ class _MyAppState extends State<MyApp> {
                   ),
                   trailing: Text('9:00',style: TextStyle(color: Colors.white70),),
                   title: Text('Ananya',style: TextStyle(color: Colors.white),),
-                  subtitle: Text('love you',style: TextStyle(color: Colors.white60),),
+                  subtitle: Text('hello',style: TextStyle(color: Colors.white60),),
                 );
               }
               ),
